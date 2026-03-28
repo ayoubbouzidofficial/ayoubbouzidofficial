@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ayoub Bouzid 👋
 
-<!--
-**ayoubbouzidofficial/ayoubbouzidofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I’m a curious builder with a strong interest in **mobile development, web development, and AI-assisted development**.  
+I enjoy turning ideas into useful digital products and learning fast through real projects, teamwork, and challenges.
 
-Here are some ideas to get you started:
+### What I Do
+- 📱 Mobile development
+- 🌐 Web development
+- 🤖 AI-assisted development
+- 🧠 Strong analytical thinking
+- 🔬 Solid background in mathematics, chemistry, and physics
+- 🌍 Multilingual communication: English, French, Spanish, Arabic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Highlights
+- 🏆 High-achieving student with **top grades, awards, and honors**
+- 🎯 Strong academic foundation in **math, chemistry, and physics**
+- 🤝 Experience in **volunteering, leadership, and technical clubs**
+- ⚡ Able to learn quickly and adapt to new tools and technologies
+- 💡 Passionate about building practical, clean, and useful solutions
+
+### Contact Me
+📧 **Email:** ayobanes2021@gmail.com  
+📸 Instagram: ayoubbouzidofficial
+
+I’m open to **freelance work, part-time opportunities, and online collaboration**.  
+If you have an idea, project, or opportunity, feel free to reach out.
+
+---
+✨ *Reliable, curious, and ready to build something valuable with you.*
