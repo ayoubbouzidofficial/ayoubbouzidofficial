@@ -21,7 +21,7 @@ I enjoy turning ideas into useful digital products and learning fast through rea
 
 ### Contact Me
 📧 **Email:** ayobanes2021@gmail.com  
-📸 Instagram: ayoubbouzidofficial
+📸 **Whatsapp:**+213540873633
 
 I’m open to **freelance work, part-time opportunities, and online collaboration**.  
 If you have an idea, project, or opportunity, feel free to reach out.
